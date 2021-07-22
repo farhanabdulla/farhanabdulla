@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanabdulla
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python and arduino
-- 💞️ I’m looking to collaborate on any coding projects to further develop my skills
+- 👀 I’m interested in software/app development and A.I.
+- 🌱 I’m currently learning python and arduino.
+- 💞️ I’m looking to collaborate on any coding projects to further develop my skills.
 - 📫 How to reach me: Email (abdulla11099@gmail.com) 
 
 <!---
